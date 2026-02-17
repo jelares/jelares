@@ -20,7 +20,7 @@ Hey, Jesus here! Engineer, physicist, founder. I build things in pursuit of AGI.
 ## 📫 Get in touch
 - [jelares.com](https://jelares.com)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jesus-lares/)
-- [![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/jelares)
+- [![](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/jelares)
 - ```jesus [at] jelares [dot] com```
 
 ## 💡 About me

@@ -6,11 +6,11 @@ Hey, Jesus here! Engineer, physicist, founder. I build things in pursuit of AGI.
 - Advised by [Marin Soljačić](https://en.wikipedia.org/wiki/Marin_Solja%C4%8Di%C4%87)
 
 ## 🚀 Experience
-🏗️Head of Engineering @ [AGI House](https://agihouse.org), 2026–current
-🧠 Cofounder & CEO @ [Tau Memory Lab](https://taumemorylab.com), exited to AGI House
-🔍 APM & Software Engineer @ Google — built generative AI products
-✈️ ML Engineer @ Northrop Grumman — ML for intelligence & aerospace
-⚛️ AI Researcher @ MIT QNN — [published in Neuromorphic Computing & Engineering](https://iopscience.iop.org/article/10.1088/2634-4386/ac86ef/)
+- 🏗️Head of Engineering @ [AGI House](https://agihouse.org), 2026–current
+- 🧠 Cofounder & CEO @ [Tau Memory Lab](https://taumemorylab.com), exited to AGI House
+- 🔍 APM & Software Engineer @ Google — built generative AI products
+- ✈️ ML Engineer @ Northrop Grumman — ML for intelligence & aerospace
+- ⚛️ AI Researcher @ MIT QNN — [published in Neuromorphic Computing & Engineering](https://iopscience.iop.org/article/10.1088/2634-4386/ac86ef/)
 
 ## 🔧 Notable Projects
 - [Tau Memory Lab](https://taumemorylab.com) — Continual-learning and world-model infrastructure
@@ -19,13 +19,14 @@ Hey, Jesus here! Engineer, physicist, founder. I build things in pursuit of AGI.
 
 ## 📫 Get in touch
 - [jelares.com](https://jelares.com)
-- [LinkedIn](https://www.linkedin.com/in/jesus-lares/)
-- jesus [at] jelares [dot] com
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jesus-lares/)
+- [![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/jelares)
+- ```jesus [at] jelares [dot] com```
 
-## 🧠 About me
-🇻🇪 Born in Venezuela, raised in Florida, went to school in Boston, building in San Francisco.
-⚛️ I studied physics because I wanted to understand the universe. I build AI for the same reason.
-✈️ I used to fly a Cessna 172M in high school.
-🌿 I love nature and hiking: best way to connect with yourself.
-📝 I [write about](https://jelares.com/writing) AI, abstraction, and the future of intelligence.
-🌱 Working toward a Solarpunk future.
+## 💡 About me
+- 🇻🇪 Born in Venezuela, raised in Florida, went to school in Boston, building in San Francisco.
+- 🔭 I studied physics because I wanted to understand the universe. I build AI for the same reason.
+- ✈️ I used to fly a Cessna 172M in high school.
+- 🏔 I love nature and hiking: best way to connect with yourself.
+- 📝 I [write about](https://jelares.com/writing) AI, abstraction, and the future of intelligence.
+- ☀️ Working toward a Solarpunk future.

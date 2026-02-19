@@ -2,7 +2,6 @@ Hey, Jesus here! Engineer, physicist, founder. I build things in pursuit of AGI.
 
 ## 🎓 Education
 **Massachusetts Institute of Technology**, SB Physics & SB Computer Science, 2018–2022
-- Phi Beta Kappa (top 10% of class), Sigma Pi Sigma (top 10% of physics dept)
 - Advised by [Marin Soljačić](https://en.wikipedia.org/wiki/Marin_Solja%C4%8Di%C4%87)
 
 ## 🚀 Experience

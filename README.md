@@ -5,7 +5,7 @@ Hey, Jesus here! Engineer, physicist, founder. I build things in pursuit of AGI.
 - Advised by [Marin Soljačić](https://en.wikipedia.org/wiki/Marin_Solja%C4%8Di%C4%87)
 
 ## 🚀 Experience
-- 🏗️Head of Engineering @ [AGI House](https://agihouse.org), 2026–current
+- 🏗️ CTO @ [AGI House](https://agihouse.org), 2026–current
 - 🧠 Cofounder & CEO @ [Tau Memory Lab](https://taumemorylab.com), exited to AGI House
 - 🔍 APM & Software Engineer @ Google — built generative AI products
 - ✈️ ML Engineer @ Northrop Grumman — ML for intelligence & aerospace
